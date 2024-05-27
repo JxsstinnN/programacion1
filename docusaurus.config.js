@@ -79,7 +79,7 @@ const config = {
             label: 'Clases',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/JxsstinnN',
             label: 'GitHub',
             position: 'right',
           },
